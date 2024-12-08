@@ -17,7 +17,7 @@ How to Edit the template
 To edit the content open the corresponding *.html files and open them
 in an editor such as VSCode or Notepad++.
 Search for the content you want to change and edit it to the text you want.
-Save the file and reopen HTML file in browser to see the changes.
+Save the file and reopen HTML file in browser to see the changes. auto save not available
 
 2. Editing Styles of template
 
